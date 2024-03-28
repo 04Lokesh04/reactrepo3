@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.list {
+  background-color: #1e293b;
+  height: 20vh;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 5px;
+}
+
+.Logo {
+  height: 65px;
+  width: 75px;
+  margin: 10px;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-bottom: 8px;
+}
+
+.result {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-bottom: 8px;
+}
+
+.red {
+  color: #e31a1a;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 8px;
+}
+
+.green {
+  color: #18ed66;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 8px;
+}
